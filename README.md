@@ -23,7 +23,8 @@ I am learning three different topics right now:<br>
 > According to Segal's picture, VOA (vertex operator algebras) and conformal blocks comes from 2 dimensional chiral CFT (conformal field theory) in a natural way. Mathematicans do the opposite: construct CFT from VOA and conformal blocks obtained in a different way. I am learning this topic from the [course](https://binguimath.github.io/Course_2022_VOA.html).
 - Topological quantum field theory
 > I am learning this topic from the seminar organized by me. You can find more information below.
-- KZ equation
+- Knizhnik–Zamolodchikov equation
+> KZ (Knizhnik–Zamolodchikov) equations is a differental equation about correlation functions in 2 dimensional chiral CFT associated to Riemann sphere. It can be described either by using affine Kac-Moody algebras or by using the language of VOA. I am learning this topic from the [course](http://www.bimsa.cn/newsinfo/601276.html).<br>
 Anyone who is interested in these topics are welcome to discuss with me.
 
 ## Seminar

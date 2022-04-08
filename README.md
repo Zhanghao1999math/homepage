@@ -9,7 +9,7 @@ h-zhang21@mails.tsinghua.edu.cn
 
 
 ## Academic Experiences
-- (2021.9-)  PhD student, Yau Mathematical Sciences Center, Tsinghua University
+- (2021.9-)  PhD student, Yau Mathematical Sciences Center, Tsinghua University. Advisor: Zhengwei Liu
 - (2017.9-2021.6) B.S., Department of Mathematics, Nanjing University
 
 

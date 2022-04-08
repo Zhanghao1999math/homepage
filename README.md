@@ -25,6 +25,7 @@ I am learning three different topics right now:<br>
 > I am learning this topic from the seminar organized by me. You can find more information below.
 - Knizhnik–Zamolodchikov equation
 > KZ (Knizhnik–Zamolodchikov) equations is a differental equation about correlation functions in 2 dimensional chiral CFT associated to Riemann sphere. It can be described either by using affine Kac-Moody algebras or by using the language of VOA. I am learning this topic from the [course](http://www.bimsa.cn/newsinfo/601276.html).<br>
+
 Anyone who is interested in these topics are welcome to discuss with me.
 
 ## Seminar

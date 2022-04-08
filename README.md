@@ -22,8 +22,10 @@ I am learning three different topics right now:<br>
 - Vertex operator algebras and conformal blocks
 > According to Segal's picture, VOA (vertex operator algebras) and conformal blocks comes from 2 dimensional chiral CFT (conformal field theory) in a natural way. Mathematicans do the opposite: construct CFT from VOA and conformal blocks obtained in a different way. I am learning this topic from the [course](https://binguimath.github.io/Course_2022_VOA.html).
 - Topological quantum field theory
+> I am learning this topic from the seminar organized by me. You can find more information below.
 - KZ equation
 Anyone who is interested in these topics are welcome to discuss with me.
+
 ## Seminar
 - (2022.1-2022.6) [Topological quantum field theory](https://github.com/Zhanghao1999math/homepage/files/8449221/TQFT_seminar.pdf)
 > This is a reading seminar of topological quantum field theory at Tsinghua university. Please send me an e-mail if you are interested.<br>

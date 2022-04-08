@@ -23,10 +23,8 @@ I'm interested in the interaction of mathematical objects (such as Lie theory, v
 
 ## Seminar
 - (2022.1-2022.6) [Topological quantum field theory](https://github.com/Zhanghao1999math/homepage/files/8449221/TQFT_seminar.pdf)
-> This is a reading seminar of topological quantum field theory at Tsinghua university. Please send me an e-mail if you are interested.
-
-> Reference: Vladimir G. Turaev. Quantum invariants of knots and 3-manifolds.
+> This is a reading seminar of topological quantum field theory at Tsinghua university. Please send me an e-mail if you are interested.<br>
+Reference: Vladimir G. Turaev. Quantum invariants of knots and 3-manifolds.
 - (2021.2-2021.5) Infinite dimensional Lie algebras
-> This is a reading seminar of Kac-Moody algebras at Nanjing University.
-
-> Reference: Victor G. Kac. Infinite dimensional Lie algebras.
+> This is a reading seminar of Kac-Moody algebras at Nanjing University.<br>
+Reference: Victor G. Kac. Infinite dimensional Lie algebras.

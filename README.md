@@ -44,4 +44,4 @@ Reference: Fulton & Harris. Representation theory, a first course.
 
 ## Teaching Experience
 - (2022 Spring) Teaching assistant for Calculus C(2)
-- (2021 Fall) Teaching assistant for Linear Algebra
+- (2021 Fall) Teaching assistant for Linear Algebra (I was awarded "Excellent Teaching Assistant" in this course)

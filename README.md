@@ -47,6 +47,7 @@ Reference: Victor G. Kac. Infinite dimensional Lie algebras.
 Reference: Fulton & Harris. Representation theory, a first course.
 
 ## Teaching Experiences
+- (2022 Fall) Teaching assistant for Linear Algebra
 - (2022 Spring) Teaching assistant for Calculus C(2) (Excellent Teaching Assistant)
 - (2021 Fall) Teaching assistant for Linear Algebra (Excellent Teaching Assistant)
 

@@ -18,7 +18,7 @@ h-zhang21@mails.tsinghua.edu.cn
 I'm interested in the interaction of mathematical objects (such as Lie theory, vertex operator algebra, tensor category, etc) with physics (such as topological quantum field theory, conformal field theory, etc).
 
 ## What I am learning right now
-I am learning three different topics right now:<br>
+I am learning:<br>
 - Vertex operator algebras and conformal blocks
 > According to Segal's picture, VOA (vertex operator algebras) and conformal blocks comes from 2 dimensional chiral CFT (conformal field theory) in a natural way. Mathematicans do the opposite: construct CFT from VOA and conformal blocks obtained in a different way. I am learning this topic from the [course](https://binguimath.github.io/Course_2022_VOA.html).
 - Complex Geometry

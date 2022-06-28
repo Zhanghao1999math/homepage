@@ -21,12 +21,16 @@ I'm interested in the interaction of mathematical objects (such as Lie theory, v
 I am learning three different topics right now:<br>
 - Vertex operator algebras and conformal blocks
 > According to Segal's picture, VOA (vertex operator algebras) and conformal blocks comes from 2 dimensional chiral CFT (conformal field theory) in a natural way. Mathematicans do the opposite: construct CFT from VOA and conformal blocks obtained in a different way. I am learning this topic from the [course](https://binguimath.github.io/Course_2022_VOA.html).
-- Topological quantum field theory
-> I am learning this topic from the seminar organized by me. You can find more information below.
-- Knizhnik–Zamolodchikov equation
-> KZ (Knizhnik–Zamolodchikov) equation is a differental equation about correlation functions in 2 dimensional chiral CFT associated to Riemann sphere. It can be described either by using affine Kac-Moody algebras or by using the language of VOA. I am learning this topic from the [course](http://www.bimsa.cn/newsinfo/601276.html).<br>
+- Complex Geometry
+> I am learning complex geometry in order to understand factorization property of conformal blocks.
 
 Anyone who is interested in these topics is welcome to discuss with me.
+
+## Notes
+- Notes on complex geometry
+> (1) [Hodge theory and Serre duality](https://github.com/Zhanghao1999math/homepage/files/9002714/Notes.on.Hodge.theory.pdf)
+This note mainly covers Hodge theory on real or complex manifolds. With Hodge theory, we can interpret de Rham cohomology and Dolbeault cohomology as some kind of 'harmonic forms', which in particular gives the well-known Serre duality.<br>
+(2)Hirzebruch-Riemann-Roch theorem and Kodaira vanishing theorem (in preparation)
 
 ## Seminars
 - (2022.1-2022.6) [Topological quantum field theory](https://github.com/Zhanghao1999math/homepage/files/8449221/TQFT_seminar.pdf)

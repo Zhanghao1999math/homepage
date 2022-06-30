@@ -27,7 +27,7 @@ I am learning:<br>
 Anyone who is interested in these topics is welcome to discuss with me.
 
 ## Notes
-- [Hodge theory and Serre duality](https://github.com/Zhanghao1999math/homepage/files/9002714/Notes.on.Hodge.theory.pdf)
+- [Hodge theory and Serre duality](Files/Notes on Hodge theory.pdf)
 > This note mainly covers Hodge theory on real or complex manifolds. With Hodge theory, we can interpret de Rham cohomology and Dolbeault cohomology as some kind of 'harmonic forms', which in particular gives the well-known Poincare and Serre duality.<br>
 - Hirzebruch-Riemann-Roch theorem and Kodaira vanishing theorem (in preparation)
 

@@ -29,7 +29,8 @@ Anyone who is interested in these topics is welcome to discuss with me.
 ## Notes
 - [Hodge theory and Serre duality](Files/Notes on Hodge theory.pdf)
 > This note mainly covers Hodge theory on real or complex manifolds. With Hodge theory, we can interpret de Rham cohomology and Dolbeault cohomology as some kind of 'harmonic forms', which in particular gives the well-known Poincare and Serre duality.<br>
-- Hirzebruch-Riemann-Roch theorem and Kodaira vanishing theorem (in preparation)
+- [Cohomology theory of complex geometry](Files/Cohomology theory.pdf)
+> This note mainly cover some basic tools to study cohomology theory of compact Riemann surface, including Riemann-Roch theorem, Serre and Kodaira vanishing theorem.
 
 ## Seminars
 - (2022.1-2022.6) [Topological quantum field theory](https://github.com/Zhanghao1999math/homepage/files/8449221/TQFT_seminar.pdf)

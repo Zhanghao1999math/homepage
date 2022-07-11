@@ -15,7 +15,7 @@ h-zhang21@mails.tsinghua.edu.cn
 
 ##  Research Interests
 
-I'm interested in the interaction of mathematical objects (such as Lie theory, vertex operator algebra, tensor category, etc) with physics (such as topological quantum field theory, conformal field theory, etc).
+I am now interested in vertex operator algebras and their geometric or physical interpretations.
 
 ## What I am learning right now
 - Vertex operator algebras and conformal blocks

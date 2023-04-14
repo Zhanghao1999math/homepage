@@ -19,6 +19,10 @@ zhanghao1999math@gmail.com
 I am interested in vertex operator algebras and their applications in quantum symmetry. Recently, I am working on the conformal block theory for C_2 cofinite vertex operator algebras with [Bin Gui](https://binguimath.github.io).
 
 
+## Talks
+
+- Friday, April 14, Conformal blocks of C_2-cofinite vertex operator algebras, (Tsinghua University, YMSC)
+
 ## Notes
 - [Hodge theory and Serre duality](Files/Notes on Hodge theory.pdf)
 > This note mainly covers Hodge theory on real or complex manifolds. With Hodge theory, we can interpret de Rham cohomology and Dolbeault cohomology as some kind of 'harmonic forms', which in particular gives the well-known Poincare and Serre duality.<br>

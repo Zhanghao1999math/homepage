@@ -21,7 +21,7 @@ I am interested in vertex operator algebras and their applications in quantum sy
 
 ## Talks
 
-- Friday, April 14, Conformal blocks of C_2-cofinite vertex operator algebras, (Tsinghua University, YMSC)
+- Friday, April 14, 2023, [Conformal blocks of C_2-cofinite vertex operator algebras](Files/2023 THU.pdf), (Tsinghua University, YMSC)
 
 ## Notes
 - [Hodge theory and Serre duality](Files/Notes on Hodge theory.pdf)

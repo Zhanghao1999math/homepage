@@ -18,6 +18,8 @@ zhanghao1999math@gmail.com
 
 I am interested in vertex operator algebras and their applications in quantum symmetry. Recently, I am working on the conformal block theory for C_2 cofinite vertex operator algebras with [Bin Gui](https://binguimath.github.io).
 
+## Publications
+- Analytic Conformal Blocks of $C_2$-cofinite Vertex Operator Algebras I: Propagation and Dual Fusion Products, Joint with Bin Gui, 
 
 ## Talks
 

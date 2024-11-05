@@ -27,8 +27,8 @@ I am interested in vertex operator algebras and their applications in conformal 
 - January 17, 2024, Conformal blocks of C_2 cofinite vertex operator algebras, Tsinghua Sanya International Mathematics Forum, Sanya, China.
 - April 19, 2024, [Logarithmic conformal field theory:sewing and factorization](https://github.com/Zhanghao1999math/homepage/files/15044753/2024.Rutgers.pdf)
 , Department of Mathematics, Rutgers University, New Jersey, USA.
-- June 24, 2024, [Conformal blocks and a Verlinde formula for self-dual $C_2$-cofinite non-rational vertex operator algebras](https://github.com/user-attachments/files/17626476/2024.SJTU.pdf), School of Mathematical Sciences, Shanghai Jiao Tong University, Shanghai, China.
-- November 1, 2024, [The sewing-factorization theorem and pseudotraces for $C_2$-cofinite VOAs](https://github.com/user-attachments/files/17626483/2024.Denver.pdf), Department of Mathematics, University of Denver, Colorado, USA.
+- June 24, 2024, [Conformal blocks and a Verlinde formula for self-dual C_2-cofinite non-rational vertex operator algebras](https://github.com/user-attachments/files/17626476/2024.SJTU.pdf), School of Mathematical Sciences, Shanghai Jiao Tong University, Shanghai, China.
+- November 1, 2024, [The sewing-factorization theorem and pseudotraces for C_2-cofinite VOAs](https://github.com/user-attachments/files/17626483/2024.Denver.pdf), Department of Mathematics, University of Denver, Colorado, USA.
 
 
 ## Notes

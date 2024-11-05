@@ -39,7 +39,8 @@ I am interested in vertex operator algebras and their applications in conformal 
 
 
 ## Teaching Experiences
-- (2024 Fall) Teaching assistant for Calculus
+- (2024 Spring) Teaching assistant for Calculus
+- (2023 Fall) Teaching assistant for Calculus
 - (2023 Spring) Teaching assistant for Calculus
 - (2022 Fall) Teaching assistant for Linear Algebra
 - (2022 Spring) Teaching assistant for Calculus

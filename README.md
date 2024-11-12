@@ -19,7 +19,9 @@ zhanghao1999math@gmail.com
 I am interested in vertex operator algebras and their applications in conformal field theory. Recently, I am working on the conformal block theory for C_2 cofinite vertex operator algebras with [Bin Gui](https://binguimath.github.io).
 
 ## Publications
-- (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras I: Propagation and Dual Fusion Products, submitted `arXiv:2305.10180` [Preprint](Files/2023 Dual fusion products.pdf)
+- (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras I: Propagation and Dual Fusion Products, `arXiv:2305.10180` [Preprint](Files/2023 Dual fusion products.pdf)
+- (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras II: Convergence of Sewing and Higher Genus Pseudo-q-traces, [Preprint](Files/2024 Convergence.pdf)
+
 
 ## Talks
 

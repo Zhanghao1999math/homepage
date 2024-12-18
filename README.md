@@ -23,21 +23,17 @@ I am interested in vertex operator algebras and their applications in conformal 
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras II: Convergence of Sewing and Higher Genus Pseudo-q-traces, `arXiv:2411.07707` [Preprint](Files/2024 Convergence.pdf)
 
 
-## Talks
+## Talks and Travel
 
-- April 14, 2023, [Conformal blocks of C_2-cofinite vertex operator algebras](Files/2023 THU.pdf), YMSC, Tsinghua University, Beijing, China.
-- January 17, 2024, Conformal blocks of C_2 cofinite vertex operator algebras, Tsinghua Sanya International Mathematics Forum, Sanya, China.
-- April 19, 2024, [Logarithmic conformal field theory:sewing and factorization](https://github.com/Zhanghao1999math/homepage/files/15044753/2024.Rutgers.pdf)
-, Department of Mathematics, Rutgers University, New Jersey, USA.
-- June 24, 2024, [Conformal blocks and a Verlinde formula for self-dual C_2-cofinite non-rational vertex operator algebras](https://github.com/user-attachments/files/17626476/2024.SJTU.pdf), School of Mathematical Sciences, Shanghai Jiao Tong University, Shanghai, China.
-- November 1, 2024, [The sewing-factorization theorem and pseudotraces for C_2-cofinite VOAs](https://github.com/user-attachments/files/17626483/2024.Denver.pdf), Department of Mathematics, University of Denver, Colorado, USA.
+- March 20, 2025, I will give a talk at the Mathematical Physics seminar at Perimeter Institute, Ontario, Canada.
+- January, 2025, I will give a talk at the workshop [Quantum groups, tensor categories and quantum field theory](https://www.mn.uio.no/math/english/research/groups/operator-algebras/events/conferences/qg-2025/) at University of Oslo, Oslo, Norway.
+- November 1, 2024, I gave a talk [The sewing-factorization theorem and pseudotraces for C_2-cofinite VOAs](https://github.com/user-attachments/files/17626483/2024.Denver.pdf) at Algebra and Logic Seminar at University of Denver, Colorado, USA.
+- June 24, 2024, I gave a talk [Conformal blocks and a Verlinde formula for self-dual C_2-cofinite non-rational vertex operator algebras](https://github.com/user-attachments/files/17626476/2024.SJTU.pdf) at the workshop `Vertex Algebras, Tensor Category and Related Topics' at Shanghai Jiao Tong University, Shanghai, China.
+- April 19, 2024, I gave a talk [Logarithmic conformal field theory:sewing and factorization](https://github.com/Zhanghao1999math/homepage/files/15044753/2024.Rutgers.pdf) at the workshop `Lie Group/Quantum Mathematics Seminar' at Rutgers University, New Jersey, USA.
+- January 17, 2024, I gave a talk `Conformal blocks of C_2 cofinite vertex operator algebras' at Tsinghua Sanya International Mathematics Forum, Hainan, China.
+- April 14, 2023, I gave a talk [Conformal blocks of C_2-cofinite vertex operator algebras](Files/2023 THU.pdf) at Tsinghua University, Beijing, China.
 
 
-## Notes
-- [Hodge theory and Serre duality](Files/Notes on Hodge theory.pdf)
-> This note mainly covers Hodge theory on real or complex manifolds. With Hodge theory, we can interpret de Rham cohomology and Dolbeault cohomology as some kind of 'harmonic forms', which in particular gives the well-known Poincare and Serre duality.<br>
-- [Cohomology theory of complex geometry](Files/Cohomology theory.pdf)
-> This note mainly covers some basic tools to study cohomology theory of compact Riemann surface (or more generally, compact Kähler manifold), including Riemann-Roch theorem, Serre and Kodaira vanishing theorem.
 
 
 ## Teaching Experiences

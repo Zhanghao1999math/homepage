@@ -25,8 +25,11 @@ I am interested in vertex operator algebras and their applications in conformal 
 
 ## Talks
 
-- March 20, 2025, I will give a talk at the Mathematical Physics seminar at Perimeter Institute, Ontario, Canada.
-- March 17, 2025, I will give a pre-talk at the Mathematical Physics seminar at Perimeter Institute, Ontario, Canada.
+- April, 2025, I will give a talk at [Shenzhen Thematic Program “Representation Theory”](https://meeting.icm.sustech.edu.cn/2025/) at SUSTech, Guangdong, China.
+- March 20, 2025, I gave a talk [The sewing-factorization theorem and pseudotraces for C_2-cofinite VOAs](https://github.com/user-attachments/files/19373288/2025.PI.pdf)
+ at the Mathematical Physics seminar at Perimeter Institute, Ontario, Canada.
+- March 17, 2025, I gave a pre-talk [Vertex operator algebras and conformal blocks](https://github.com/user-attachments/files/19373301/2025.PI.pre-talk.pdf)
+ at the Mathematical Physics seminar at Perimeter Institute, Ontario, Canada.
 - January 13, 2025, I gave a talk [Conformal blocks and coends](https://github.com/user-attachments/files/18516739/2025.Oslo.pdf) at the workshop [Quantum groups, tensor categories and quantum field theory](https://www.mn.uio.no/math/english/research/groups/operator-algebras/events/conferences/qg-2025/) at University of Oslo, Oslo, Norway.
 - November 1, 2024, I gave a talk [The sewing-factorization theorem and pseudotraces for C_2-cofinite VOAs](https://github.com/user-attachments/files/17626483/2024.Denver.pdf) at Algebra and Logic Seminar at University of Denver, Colorado, USA.
 - June 24, 2024, I gave a talk [Conformal blocks and a Verlinde formula for self-dual C_2-cofinite non-rational vertex operator algebras](https://github.com/user-attachments/files/17626476/2024.SJTU.pdf) at the workshop `Vertex Algebras, Tensor Category and Related Topics' at Shanghai Jiao Tong University, Shanghai, China.

@@ -41,9 +41,9 @@ I am interested in vertex operator algebras and their applications in conformal 
  at the Mathematical Physics seminar at Perimeter Institute, Ontario, Canada.
 - January 13, 2025, I gave a talk [Conformal blocks and coends](https://github.com/user-attachments/files/18516739/2025.Oslo.pdf) at the workshop [Quantum groups, tensor categories and quantum field theory](https://www.mn.uio.no/math/english/research/groups/operator-algebras/events/conferences/qg-2025/) at University of Oslo, Oslo, Norway.
 - November 1, 2024, I gave an online talk [The sewing-factorization theorem and pseudotraces for C_2-cofinite VOAs](https://github.com/user-attachments/files/17626483/2024.Denver.pdf) at Algebra and Logic Seminar at University of Denver, Colorado, USA.
-- June 24, 2024, I gave a talk [Conformal blocks and a Verlinde formula for self-dual C_2-cofinite non-rational vertex operator algebras](https://github.com/user-attachments/files/17626476/2024.SJTU.pdf) at the workshop `Vertex Algebras, Tensor Category and Related Topics' at Shanghai Jiao Tong University, Shanghai, China.
-- April 19, 2024, I gave a talk `Logarithmic conformal field theory:sewing and factorization` at the workshop `Lie Group/Quantum Mathematics Seminar' at Rutgers University, New Jersey, USA.
-- January 17, 2024, I gave a talk `Conformal blocks of C_2 cofinite vertex operator algebras` at Tsinghua Sanya International Mathematics Forum, Hainan, China.
+- June 24, 2024, I gave a talk [Conformal blocks and a Verlinde formula for self-dual C_2-cofinite non-rational vertex operator algebras](https://github.com/user-attachments/files/17626476/2024.SJTU.pdf) at the workshop "Vertex Algebras, Tensor Category and Related Topics" at Shanghai Jiao Tong University, Shanghai, China.
+- April 19, 2024, I gave a talk "Logarithmic conformal field theory:sewing and factorization" at the workshop "Lie Group/Quantum Mathematics Seminar" at Rutgers University, New Jersey, USA.
+- January 17, 2024, I gave a talk "Conformal blocks of C_2 cofinite vertex operator algebras" at Tsinghua Sanya International Mathematics Forum, Hainan, China.
 - April 14, 2023, I gave a talk [Conformal blocks of C_2-cofinite vertex operator algebras](Files/2023 THU.pdf) at Tsinghua University, Beijing, China.
 
 

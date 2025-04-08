@@ -2,7 +2,7 @@ Welcome to my homepage.
 
 ## About me
 
-I am now a Ph.D student at Tsinghua University, Yau Mathematical Sciences Center.
+I am a 4-th year Ph.D student at Tsinghua University, Yau Mathematical Sciences Center. Here is my [google scholar](https://scholar.google.com/citations?user=-IJjsjcAAAAJ&hl=en&oi=sra).
 
 E-mail: <br>
 h-zhang21@mails.tsinghua.edu.cn <br>
@@ -14,15 +14,21 @@ zhanghao1999math@gmail.com
 - (2017.9-2021.6) B.S., Department of Mathematics, Nanjing University
 
 
-##  Research Interests
+##  Research Interest
 
-I am interested in vertex operator algebras and their applications in conformal field theory. Recently, I am working on the conformal block theory for C_2 cofinite vertex operator algebras with [Bin Gui](https://binguimath.github.io).
+I am interested in vertex operator algebras and their applications in conformal field theory. Recently, I am working on the conformal block theory for C_2 cofinite vertex operator algebras with [Bin Gui](https://binguimath.github.io). The most recent progress of our project is the proof of sewing-factorization theorem.
+
 
 ## Publications
 
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras III: The Sewing-Factorization Theorems, `arXiv:2503.23995` [Preprint](Files/2025 SF theorem.pdf)
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras II: Convergence of Sewing and Higher Genus Pseudo-q-traces, `arXiv:2411.07707` [Preprint](Files/2024 Convergence.pdf)
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras I: Propagation and Dual Fusion Products, `arXiv:2305.10180` [Preprint](Files/2023 Dual fusion products.pdf)
+
+## Upcoming Travel
+
+- April, 2025, [Shenzhen Thematic Program “Representation Theory”](https://meeting.icm.sustech.edu.cn/2025/), SUSTech, Guangdong, China.
+- July, 2025, [Recent Developments in Logarithmic Conformal Field Theory](https://www.birs.ca/events/2025/5-day-workshops/25w5318), BIRS, Alberta, Canada.
 
 
 ## Talks
@@ -36,8 +42,8 @@ I am interested in vertex operator algebras and their applications in conformal 
 - January 13, 2025, I gave a talk [Conformal blocks and coends](https://github.com/user-attachments/files/18516739/2025.Oslo.pdf) at the workshop [Quantum groups, tensor categories and quantum field theory](https://www.mn.uio.no/math/english/research/groups/operator-algebras/events/conferences/qg-2025/) at University of Oslo, Oslo, Norway.
 - November 1, 2024, I gave an online talk [The sewing-factorization theorem and pseudotraces for C_2-cofinite VOAs](https://github.com/user-attachments/files/17626483/2024.Denver.pdf) at Algebra and Logic Seminar at University of Denver, Colorado, USA.
 - June 24, 2024, I gave a talk [Conformal blocks and a Verlinde formula for self-dual C_2-cofinite non-rational vertex operator algebras](https://github.com/user-attachments/files/17626476/2024.SJTU.pdf) at the workshop `Vertex Algebras, Tensor Category and Related Topics' at Shanghai Jiao Tong University, Shanghai, China.
-- April 19, 2024, I gave a talk [Logarithmic conformal field theory:sewing and factorization](https://github.com/Zhanghao1999math/homepage/files/15044753/2024.Rutgers.pdf) at the workshop `Lie Group/Quantum Mathematics Seminar' at Rutgers University, New Jersey, USA.
-- January 17, 2024, I gave a talk `Conformal blocks of C_2 cofinite vertex operator algebras' at Tsinghua Sanya International Mathematics Forum, Hainan, China.
+- April 19, 2024, I gave a talk `Logarithmic conformal field theory:sewing and factorization` at the workshop `Lie Group/Quantum Mathematics Seminar' at Rutgers University, New Jersey, USA.
+- January 17, 2024, I gave a talk `Conformal blocks of C_2 cofinite vertex operator algebras` at Tsinghua Sanya International Mathematics Forum, Hainan, China.
 - April 14, 2023, I gave a talk [Conformal blocks of C_2-cofinite vertex operator algebras](Files/2023 THU.pdf) at Tsinghua University, Beijing, China.
 
 

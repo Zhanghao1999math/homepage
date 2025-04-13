@@ -28,6 +28,8 @@ I am interested in vertex operator algebras and their applications in conformal 
 ## Upcoming Travel
 
 - April, 2025, [Shenzhen Thematic Program “Representation Theory”](https://meeting.icm.sustech.edu.cn/2025/), SUSTech, Guangdong, China.
+- May, 2025, Shanghai Jiao Tong University, Shanghai, China.
+- May, 2025, Nanjing University, Jiangsu, China.
 - July, 2025, [Recent Developments in Logarithmic Conformal Field Theory](https://www.birs.ca/events/2025/5-day-workshops/25w5318), BIRS, Alberta, Canada.
 - October, 2025, [CFT: Algebraic, Topological and probabilistic approaches in Conformal Field Theory](https://indico.ijclab.in2p3.fr/event/11570/), Institut Pascal, Paris, France.
 
@@ -35,6 +37,7 @@ I am interested in vertex operator algebras and their applications in conformal 
 ## Talks
 
 - October, 2025, I will give a talk at [CFT: Algebraic, Topological and probabilistic approaches in Conformal Field Theory](https://indico.ijclab.in2p3.fr/event/11570/), Institut Pascal, Paris, France.
+- May, 2025, I will give a talk at Nanjing University, Jiangsu, China.
 - April, 2025, I will give an online talk at [Rocky Mountain Representation theory seminar](https://sites.google.com/view/rockymountainreptheory/home).
 - April, 2025, I will give a talk at [Shenzhen Thematic Program “Representation Theory”](https://meeting.icm.sustech.edu.cn/2025/) at SUSTech, Guangdong, China.
 - March 20, 2025, I gave a talk [The sewing-factorization theorem and pseudotraces for C_2-cofinite VOAs](https://github.com/user-attachments/files/19373288/2025.PI.pdf)

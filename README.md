@@ -20,20 +20,20 @@ I am interested in vertex operator algebras and their applications in conformal 
 
 In the previous literature, rational chiral CFTs have been investigated for more than a decade. Due to diverse backgrounds of experts in this areas, many different approaches have been introduced to give a precise formulation of the sewing-factorization theorem. However, it seems that the literature doesn't provide a clear and detailed account of how one approach is related to the other.
 
-Unfortunately, there are even more discrepancies when it comes to finite logarithmic chiral CFTs. Due to Miyamoto's observation that traces are not enough to consider <i>self-sewing</i>, the VOA community usually uses <i>pseudo-traces</i> and associative algebras in their formulation of sewing-factorization theorem. The most recent progress is Huang's proof of modular invariance of pseudo-traces of intertwining operators, which is known as the <i>geometric construction</i> of (genus 1) conformal blocks. On the other hand, the TQFT community prefers <i>coends</i> to deal with this problem. This is (conjecturally) known as the <i>categorical construction</i> of (genus 1) conformal blocks. In particular, the categorical $S$-transformation is defined in terms of coends.
+Unfortunately, there are even more discrepancies when it comes to finite logarithmic chiral CFTs. Due to Miyamoto's observation that traces are not enough to consider <i>self-sewing</i>, the VOA community usually uses <i>pseudo-traces</i> and associative algebras in their formulation of sewing-factorization theorem. The most recent progress is Huang's proof of modular invariance of pseudo-traces of intertwining operators, which is known as the <i>geometric construction</i> of (genus 1) conformal blocks. On the other hand, the TQFT community prefers <i>coends</i> to deal with this problem. This is (conjecturally) known as the <i>categorical construction</i> of (genus 1) conformal blocks. In particular, the categorical S-transformation is defined in terms of coends.
 
-In Huang's proof of rigidity of the tensor category of a $C_2$-cofinite and rational VOA, it is highly non-trivial to prove that the modular $S$-transform coincides with the categorial $S$-transform. Therefore, for $C_2$-cofinite VOAs, it is necessary to compare the $SL_2(\mathbb{Z})$-representation obtained from pseudo-traces with the one coming from the coends.
+In Huang's proof of rigidity of the tensor category of a C_2-cofinite and rational VOA, it is highly non-trivial to prove that the modular S-transform coincides with the categorial S-transform. Therefore, for C_2-cofinite VOAs, it is necessary to compare the SL_2(Z)-representation obtained from pseudo-traces with the one coming from the coends.
 
-In my three-part series paper "Analytic Conformal Blocks of $C_2$-cofinite Vertex Operator Algebras" joint with [Bin Gui](https://binguimath.github.io), we focused on finite logarithmic chiral CFTs and gave a coend formulation of the sewing-factorization theorem. We proved that <i>disjoint sewing</i> is a coend and gives a categorical construction of conformal blocks of <i>arbitrary genus</i>. 
+In my three-part series paper "Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras" joint with [Bin Gui](https://binguimath.github.io), we focused on finite logarithmic chiral CFTs and gave a coend formulation of the sewing-factorization theorem. We proved that <i>disjoint sewing</i> is a coend and gives a categorical construction of conformal blocks of <i>arbitrary genus</i>. 
 
 In the appendix of the second paper, we proved that (higher genus) pseudo-traces come from disjoint sewing. In a future paper, we will prove the inverse part, which will establish the relationship between pseudo-traces and coends we want.
 
 
 ## Publications
 
-- (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of $C_2$-cofinite Vertex Operator Algebras III: The Sewing-Factorization Theorems, `arXiv:2503.23995` [Preprint](Files/2025 SF theorem.pdf)
-- (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of $C_2$-cofinite Vertex Operator Algebras II: Convergence of Sewing and Higher Genus Pseudo-q-traces, `arXiv:2411.07707` [Preprint](Files/2024 Convergence.pdf)
-- (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of $C_2$-cofinite Vertex Operator Algebras I: Propagation and Dual Fusion Products, `arXiv:2305.10180` [Preprint](Files/2023 Dual fusion products.pdf)
+- (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras III: The Sewing-Factorization Theorems, `arXiv:2503.23995` [Preprint](Files/2025 SF theorem.pdf)
+- (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras II: Convergence of Sewing and Higher Genus Pseudo-q-traces, `arXiv:2411.07707` [Preprint](Files/2024 Convergence.pdf)
+- (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras I: Propagation and Dual Fusion Products, `arXiv:2305.10180` [Preprint](Files/2023 Dual fusion products.pdf)
 
 ## Upcoming Travel
 

@@ -14,9 +14,17 @@ zhanghao1999math@gmail.com
 - (2017.9-2021.6) B.S., Department of Mathematics, Nanjing University
 
 
-##  Research Interest
+##  Research Descriptions
 
-I am interested in vertex operator algebras and their applications in conformal field theory. Recently, I am working on the conformal block theory for C_2 cofinite vertex operator algebras with [Bin Gui](https://binguimath.github.io). The most recent progress of our project is the proof of sewing-factorization theorem.
+I am interested in vertex operator algebras and their applications in conformal field theory. Recently, I am working on finite logarithmic chiral CFTs with [Bin Gui](https://binguimath.github.io). 
+
+In the previous literature, rational chiral CFTs have been investigated for more than a decade. Due to diverse backgrounds of experts in this areas, many different approaches have been introduced to give a precise formulation of the sewing-factorization theorem. However, it seems that the literature doesn't provide a clear and detailed account of how one approach is related to the other.
+
+Unfortunately, there are even more discrepancies when it comes to finite logarithmic chiral CFTs. Due to Miyamoto's observation that traces are not enough to consider `self-sewing`, the VOA community usually uses `pseudo-traces` and associative algebras in their formulation of sewing-factorization. The most recent progress is Huang's proof of modular invariance of pseudo-traces of intertwining operators. On the other hand, the TQFT community prefers `coends` to deal with this problem. In particular, the categorical S-transformation is defined in terms of coends.
+
+In Huang's proof of rigidity of the tensor category of a C_2-cofinite and rational VOA, it is highly non-trivial to prove that the modular S-transform coincides with the categorial S-transform. So it is important to relate pseudo-traces with coends for C_2-cofinite VOAs. 
+
+In my three-part series paper "Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras" joint with [Bin Gui](https://binguimath.github.io), we focused on finite logarithmic chiral CFTs and gave a coend formulation of the sewing-factorization theorem.
 
 
 ## Publications

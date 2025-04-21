@@ -16,15 +16,25 @@ zhanghao1999math@gmail.com
 
 ##  Research Descriptions
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$', '$']]},
+        messageStyle: "none"
+    });
+</script>
+
 I am interested in vertex operator algebras and their applications in conformal field theory. Recently, I am working on finite logarithmic chiral CFTs with [Bin Gui](https://binguimath.github.io). 
 
 In the previous literature, rational chiral CFTs have been investigated for more than a decade. Due to diverse backgrounds of experts in this areas, many different approaches have been introduced to give a precise formulation of the sewing-factorization theorem. However, it seems that the literature doesn't provide a clear and detailed account of how one approach is related to the other.
 
-Unfortunately, there are even more discrepancies when it comes to finite logarithmic chiral CFTs. Due to Miyamoto's observation that traces are not enough to consider <i>self-sewing</i>, the VOA community usually uses `pseudo-traces` and associative algebras in their formulation of sewing-factorization. The most recent progress is Huang's proof of modular invariance of pseudo-traces of intertwining operators. On the other hand, the TQFT community prefers `coends` to deal with this problem. In particular, the categorical S-transformation is defined in terms of coends.
+Unfortunately, there are even more discrepancies when it comes to finite logarithmic chiral CFTs. Due to Miyamoto's observation that traces are not enough to consider <i>self-sewing</i>, the VOA community usually uses <i>pseudo-traces</i> and associative algebras in their formulation of sewing-factorization theorem. The most recent progress is Huang's proof of modular invariance of pseudo-traces of intertwining operators, which is known as the <i>geometric construction</i> of (genus 1) conformal blocks. On the other hand, the TQFT community prefers <i>coends</i> to deal with this problem. They conjectured that the space of genus 1 vacuum conformal blocks is isomorphic to This is known as the <i>categorical construction</i> of (genus 1) conformal blocks. In particular, the categorical S-transformation is defined in terms of coends.
 
-In Huang's proof of rigidity of the tensor category of a C_2-cofinite and rational VOA, it is highly non-trivial to prove that the modular S-transform coincides with the categorial S-transform. So it is important to relate pseudo-traces with coends for C_2-cofinite VOAs. 
+In Huang's proof of rigidity of the tensor category of a C_2-cofinite and rational VOA, it is highly non-trivial to prove that the modular S-transform coincides with the categorial S-transform. Therefore, for C_2-cofinite VOAs, it is necessary to compare the $SL_2(Z)$-representation obtained from pseudo-traces with the one coming from the coends.
 
-In my three-part series paper "Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras" joint with [Bin Gui](https://binguimath.github.io), we focused on finite logarithmic chiral CFTs and gave a coend formulation of the sewing-factorization theorem.
+In my three-part series paper "Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras" joint with [Bin Gui](https://binguimath.github.io), we focused on finite logarithmic chiral CFTs and gave a coend formulation of the sewing-factorization theorem. We proved that disjoint sewing gave a categorical construction of conformal blocks
 
 
 ## Publications

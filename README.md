@@ -49,7 +49,8 @@ In the second paper, we proved that (higher genus) pseudo-traces come from disjo
 - October, 2025, I will give a talk at [CFT: Algebraic, Topological and probabilistic approaches in Conformal Field Theory](https://indico.ijclab.in2p3.fr/event/11570/), Institut Pascal, Paris, France.
 - May, 2025, I will give an online talk at [Rocky Mountain Representation theory seminar](https://sites.google.com/view/rockymountainreptheory/home).
 - May, 2025, I will give a talk at Nanjing University, Jiangsu, China.
-- April, 2025, I will give a talk at [Shenzhen Thematic Program “Representation Theory”](https://meeting.icm.sustech.edu.cn/2025/) at SUSTech, Guangdong, China.
+- April, 2025, I gave a talk [2025 SUSTech.pdf](https://github.com/user-attachments/files/19927431/2025.SUSTech.pdf)
+ at [Shenzhen Thematic Program “Representation Theory”](https://meeting.icm.sustech.edu.cn/2025/) at SUSTech, Guangdong, China.
 - March 20, 2025, I gave a talk [The sewing-factorization theorem and pseudotraces for C_2-cofinite VOAs](https://github.com/user-attachments/files/19373288/2025.PI.pdf)
  at the Mathematical Physics seminar at Perimeter Institute, Ontario, Canada.
 - March 17, 2025, I gave a pre-talk [Vertex operator algebras and conformal blocks](https://github.com/user-attachments/files/19373301/2025.PI.pre-talk.pdf)

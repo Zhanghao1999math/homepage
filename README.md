@@ -37,7 +37,6 @@ In the second paper, we proved that (higher genus) pseudo-traces come from disjo
 
 ## Upcoming Travel
 
-- April, 2025, [Shenzhen Thematic Program “Representation Theory”](https://meeting.icm.sustech.edu.cn/2025/), SUSTech, Guangdong, China.
 - May, 2025, Shanghai Jiao Tong University, Shanghai, China.
 - May, 2025, Nanjing University, Jiangsu, China.
 - July, 2025, [Recent Developments in Logarithmic Conformal Field Theory](https://www.birs.ca/events/2025/5-day-workshops/25w5318), BIRS, Alberta, Canada.

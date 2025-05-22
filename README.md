@@ -18,9 +18,9 @@ zhanghao1999math@gmail.com
 
 I am interested in vertex operator algebras and their applications in conformal field theory. Recently, I proved the sewing-factorization theorem on finite logarithmic chiral CFTs with [Bin Gui](https://binguimath.github.io). 
 
-My [slides](https://github.com/user-attachments/files/20396413/2025.Rocky.Mountain.pdf) at Rocky Mountain Representation Theory Seminar describes the relation between sewing-factorization theorem and coend.
+My [slides](https://github.com/user-attachments/files/20396413/2025.Rocky.Mountain.pdf) at Rocky Mountain Representation Theory Seminar describe the relation between sewing-factorization theorem and coend.
 
-[Bin Gui](https://binguimath.github.io)'s [slides](https://github.com/user-attachments/files/20396488/2025_SJTU.pdf) at SJTU describes the relation between sewing-factorization theorem and pseudo-traces.
+[Bin Gui](https://binguimath.github.io)'s [slides](https://github.com/user-attachments/files/20396488/2025_SJTU.pdf) at SJTU describe the relation between sewing-factorization theorem and pseudo-traces.
 
 In the previous literature, rational chiral CFTs have been investigated for more than a decade. Due to diverse backgrounds of experts in this area, many different approaches have been introduced to give a precise formulation of the sewing-factorization theorem. However, it seems that the literature doesn't provide a clear and detailed account of how one approach is related to the other.
 

@@ -32,7 +32,7 @@ In my three-part series paper "Analytic Conformal Blocks of C_2-cofinite Vertex 
 
 In the second paper, we proved that (higher genus) pseudo-traces come from disjoint sewing. In a future paper, we will prove the inverse part, which will establish the relationship between pseudo-traces and coends we want.
 
-See [my talk](https://github.com/user-attachments/files/19934527/2025.SUSTech.pdf) at SUSTech for the introduction to the relationship between disjoint sewing and coends. If you have any questions, feel free to send me an e-mail!
+If you have any questions, feel free to send me an e-mail!
 
 
 ## Publications

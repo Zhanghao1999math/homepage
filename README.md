@@ -16,7 +16,7 @@ zhanghao1999math@gmail.com
 
 ##  Research Descriptions
 
-I am interested in vertex operator algebras and their applications in conformal field theory. Recently, I am working on finite logarithmic chiral CFTs with [Bin Gui](https://binguimath.github.io). 
+I am interested in vertex operator algebras and their applications in conformal field theory. Recently, I proved the sewing-factorization theorem on finite logarithmic chiral CFTs with [Bin Gui](https://binguimath.github.io). 
 
 My [slides](https://github.com/user-attachments/files/20396413/2025.Rocky.Mountain.pdf) at Rocky Mountain Representation Theory Seminar describes the relation between sewing-factorization theorem and coend.
 

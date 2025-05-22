@@ -18,6 +18,10 @@ zhanghao1999math@gmail.com
 
 I am interested in vertex operator algebras and their applications in conformal field theory. Recently, I am working on finite logarithmic chiral CFTs with [Bin Gui](https://binguimath.github.io). 
 
+My [slides](https://github.com/user-attachments/files/20396413/2025.Rocky.Mountain.pdf) at Rocky Mountain Representation Theory Seminar describes the relation between sewing-factorization theorem and coend.
+
+[Bin Gui](https://binguimath.github.io)'s [slides](https://github.com/user-attachments/files/20396488/2025_SJTU.pdf) at SJTU describes the relation between sewing-factorization theorem and pseudo-traces.
+
 In the previous literature, rational chiral CFTs have been investigated for more than a decade. Due to diverse backgrounds of experts in this area, many different approaches have been introduced to give a precise formulation of the sewing-factorization theorem. However, it seems that the literature doesn't provide a clear and detailed account of how one approach is related to the other.
 
 Unfortunately, there are even more discrepancies when it comes to finite logarithmic chiral CFTs. Due to Miyamoto's observation that traces are not enough to consider <i>self-sewing</i>, the VOA community usually uses <i>pseudo-traces</i> and associative algebras in their formulation of sewing-factorization theorem. The most recent progress is Huang's proof of modular invariance of pseudo-traces of intertwining operators, which is known as the <i>geometric construction</i> of (genus 1) conformal blocks. On the other hand, the TQFT community prefers <i>coends</i> to deal with this problem. This is (conjecturally) known as the <i>categorical construction</i> of (genus 1) conformal blocks. In particular, the categorical S-transformation is defined in terms of coends.
@@ -48,8 +52,8 @@ See [my talk](https://github.com/user-attachments/files/19934527/2025.SUSTech.pd
 ## Talks
 
 - October, 2025, I will give a talk at [CFT: Algebraic, Topological and probabilistic approaches in Conformal Field Theory](https://indico.ijclab.in2p3.fr/event/11570/), Institut Pascal, Paris, France.
-- May, 2025, I will give an online talk at [Rocky Mountain Representation theory seminar](https://sites.google.com/view/rockymountainreptheory/home).
-- May, 2025, I will give a talk at Nanjing University, Jiangsu, China.
+- May 23, 2025, I gave a talk "Sewing-factorization theorem and coends" at [Rocky Mountain Representation theory seminar](https://sites.google.com/view/rockymountainreptheory/home).
+- May 23, 2025, I gave a talk "Sewing-factorization theorem and coends" at Nanjing University, Jiangsu, China.
 - April 24, 2025, I gave a talk [Conformal blocks and coends](https://github.com/user-attachments/files/19927431/2025.SUSTech.pdf)
  at [Shenzhen Thematic Program “Representation Theory”](https://meeting.icm.sustech.edu.cn/2025/) at SUSTech, Guangdong, China.
 - March 20, 2025, I gave a talk [The sewing-factorization theorem and pseudotraces for C_2-cofinite VOAs](https://github.com/user-attachments/files/19373288/2025.PI.pdf)

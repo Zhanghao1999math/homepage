@@ -33,8 +33,6 @@ If you have any questions, feel free to send me an e-mail!
 
 ## Upcoming Travel
 
-- May, 2025, Shanghai Jiao Tong University, Shanghai, China.
-- May, 2025, Nanjing University, Jiangsu, China.
 - July, 2025, [Recent Developments in Logarithmic Conformal Field Theory](https://www.birs.ca/events/2025/5-day-workshops/25w5318), BIRS, Alberta, Canada.
 - October, 2025, [CFT: Algebraic, Topological and probabilistic approaches in Conformal Field Theory](https://indico.ijclab.in2p3.fr/event/11570/), Institut Pascal, Paris, France.
 

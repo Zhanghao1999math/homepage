@@ -5,8 +5,8 @@ Welcome to my homepage.
 I am a 4-th year Ph.D student at Tsinghua University, Yau Mathematical Sciences Center. Here is my [google scholar](https://scholar.google.com/citations?user=-IJjsjcAAAAJ&hl=en&oi=sra) and [CV](Files/CV Hao Zhang.pdf).
 
 E-mail: <br>
-h-zhang21@mails.tsinghua.edu.cn <br>
-zhanghao1999math@gmail.com
+h-zhang21(at)mails(dot)tsinghua(dot)edu(dot)cn <br>
+zhanghao1999math(at)gmail(dot)com
 
 
 

@@ -9,6 +9,7 @@ h-zhang21@mails.tsinghua.edu.cn <br>
 zhanghao1999math@gmail.com
 
 
+
 ## Academic Experiences
 - (2021.9-)  Ph.D student, Yau Mathematical Sciences Center, Tsinghua University. Advisor: Zhengwei Liu
 - (2017.9-2021.6) B.S., Department of Mathematics, Nanjing University
@@ -22,7 +23,7 @@ My [SLIDES](Files/2025.Rocky.Mountain.pdf) at Rocky Mountain Representation Theo
 
 Bin Gui's [SLIDES](Files/2025_SJTU.pdf) at SJTU describe the relation between sewing-factorization theorem and pseudo-traces.
 
-If you have any questions, feel free to send me an e-mail!
+If you have any questions, feel free to send me an e-mail.
 
 
 ## Publications

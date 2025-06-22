@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Hao Zhang's homepage
 markdown: kramdown
+show_downloads: false

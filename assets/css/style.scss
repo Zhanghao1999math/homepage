@@ -1,2 +1,12 @@
-/* 隐藏顶部绿色 “View on GitHub” 按钮 */
-a.btn[href*="github.com"] { display: none !important; }
+---
+---
+
+@import "{{ site.theme }}";
+
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}

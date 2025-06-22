@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: Hao Zhang's homepage
 markdown: kramdown
-theme: jekyll-theme-minimal
 sass:
   style: compressed

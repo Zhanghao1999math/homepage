@@ -29,11 +29,14 @@ If you have any questions, feel free to send me an e-mail.
 ## Publications
 
 - (Joint with [Bin Gui](https://binguimath.github.io)) Associative Algebras and the Ends of Vertex Operator Algebras, to appear soon
+> In this paper, we prove that the pseudo-q-trace construction gives an isomorphism between the space of torus conformal blocks and the space of symmetric linear functionals of the endomorphism algebra of a projective generator. This is a conjecture by [Gainutdinov](https://www.researchgate.net/profile/Azat-Gainutdinov-2)-[Runkel](https://www.math.uni-hamburg.de/home/runkel/). We prove this conjecture by showing that Lyubashenko's end is an AUF algebra and constructing a linear isomorphism between Mod(V) and the category of coherent left module of this AUF algebra.
 - (Joint with [Bin Gui](https://binguimath.github.io)) Almost Unital and Finite Dimensional Algebras, to appear soon
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras III: The Sewing-Factorization Theorems, `arXiv:2503.23995` [Preprint](Files/2025 SF theorem.pdf)
 > In this paper, we prove several equivalent versions of sewing-factorization theorem for finite logarithmic chiral CFTs. One of our versions takes the form of horizontal composition of profunctors—defined via coends—which aligns with the framework proposed in the paper [Modular Functors from Non-Semisimple 3D TFTs](https://arxiv.org/abs/2405.18038) by [Hofer](https://aaron-hofer.github.io/)-[Runkel](https://www.math.uni-hamburg.de/home/runkel/). In particular, our result naturally connects with the topological modular functors in the sense of [Lyubashenko](https://imath.kiev.ua/~lub/) and [Fuchs](https://jfuchs.hotell.kau.se/gen/cont.html)-[Schweigert](https://www.math.uni-hamburg.de/home/schweigert/).
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras II: Convergence of Sewing and Higher Genus Pseudo-q-traces, `arXiv:2411.07707` [Preprint](Files/2024 Convergence.pdf)
+> In this paper, we prove the convergence of sewing conformal blocks for finite logarithmic chiral CFTs, which aligns with the convergence of pseudo-q-traces in the sense of [Fiordalisi's work](https://www.worldscientific.com/doi/abs/10.1142/S0219199716500267?srsltid=AfmBOoosN_gHU5tzp39SWui_HZLo2ZwTg5lBDEV2yM7OyTQZyRgC10i7). 
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras I: Propagation and Dual Fusion Products, `arXiv:2305.10180` [Preprint](Files/2023 Dual fusion products.pdf)
+> In this paper, we construct higher genus (dual) fusion products using propagation of partial conformal blocks. We also formulate the sewing-factorization theorem in terms of (dual) fusion products. 
 
 ## Upcoming Travel
 

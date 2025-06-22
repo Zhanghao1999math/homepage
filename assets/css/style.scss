@@ -10,3 +10,16 @@ footer {
 .btn {
   display: none !important;
 }
+
+/* 深化普通状态的超链接 */
+a, a:visited {
+  color: #15408a !important;   /* 原主题是 #1e6bb8，大约再深 30% :contentReference[oaicite:0]{index=0} */
+  text-decoration: none;       /* 保留或去掉下划线看个人喜好 */
+}
+
+/* 鼠标悬停/聚焦时再深一点 */
+a:hover,
+a:focus {
+  color: #0e2d60 !important;
+  text-decoration: underline;
+}

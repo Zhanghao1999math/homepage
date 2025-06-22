@@ -33,3 +33,32 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: #0e2d60 !important;   /* 深蓝灰，自己可替换 */
 }
+
+
+/********  保留 page-header 标题当前颜色  ********/
+/* 如果你已经很喜欢现在深蓝色，就什么都别动。
+   仅当你误把它改成别的颜色，想保持原样时，可加这句：
+.page-header h1 { color: #0e2d60; }   */
+
+/********  正文区域整体颜色加深（包含标题）  ********/
+.markdown-body {
+  color: #2b2b2b;        /* 普通段落，比默认 #606c71 深一些 */
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  color: #0e2d60;        /* 深蓝标题，同你首页大标题风格 */
+}
+
+
+/********  > 引用文字加深  ********/
+.markdown-body blockquote {
+  color: #2b2b2b;        /* 跟正文一致，再深一小档 */
+  /* 想再强调一点，也可以给引用竖线换颜色：
+  border-left: 4px solid #15408a;
+  */
+}

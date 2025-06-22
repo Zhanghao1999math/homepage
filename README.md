@@ -30,7 +30,10 @@ If you have any questions, feel free to send me an e-mail.
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras II: Convergence of Sewing and Higher Genus Pseudo-q-traces, `arXiv:2411.07707` [Preprint](Files/2024 Convergence.pdf)
 > In this paper, we prove the higher genus convergence of sewing for finite logarithmic chiral CFTs, which aligns with the convergence of pseudo-q-traces in the sense of [Fiordalisi's work](https://www.worldscientific.com/doi/abs/10.1142/S0219199716500267?srsltid=AfmBOoosN_gHU5tzp39SWui_HZLo2ZwTg5lBDEV2yM7OyTQZyRgC10i7). 
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras I: Propagation and Dual Fusion Products, `arXiv:2305.10180` [Preprint](Files/2023 Dual fusion products.pdf)
-> In this paper, we construct *higher genus (dual) fusion products* using propagation of partial conformal blocks. We also formulate the sewing-factorization theorem in terms of (dual) fusion products. 
+> In this paper, we construct *higher genus (dual) fusion products* using propagation of partial conformal blocks <p align="center">
+  <img src="https://latex.codecogs.com/svg.image?\int_{\mathbb%20X\in%20\mathrm{Mod}(\mathbb%20V)}\mathbb%20X\otimes%20\mathbb%20X'\in%20\mathrm{Mod}(\mathbb%20V\otimes%20\mathbb%20V)">
+</p>
+. We also formulate the sewing-factorization theorem in terms of (dual) fusion products. 
 
 ## Upcoming Travel
 

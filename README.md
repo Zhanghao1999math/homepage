@@ -22,7 +22,11 @@ If you have any questions, feel free to send me an e-mail.
 ## Publications
 
 - (Joint with [Bin Gui](https://binguimath.github.io)) Associative Algebras and the Ends of Vertex Operator Algebras, to appear soon
-> In this paper, we prove that the pseudo-q-trace construction gives an isomorphism between the space of torus conformal blocks and the space of symmetric linear functionals of the endomorphism algebra of a projective generator. This is a conjecture by [Gainutdinov](https://www.researchgate.net/profile/Azat-Gainutdinov-2)-[Runkel](https://www.math.uni-hamburg.de/home/runkel/). With the help of pseudotrace reciprocity in our previous paper, we prove this conjecture by showing that Lyubashenko's end ![formula](https://latex.codecogs.com/svg.image?%5Cint_%7B%5Cmathbb%20X%5Cin%20%5Cmathrm%7BMod%7D%28%5Cmathbb%20V%29%7D%5Cmathbb%20X%5Cotimes%20%5Cmathbb%20X%27%5Cin%20%5Cmathrm%7BMod%7D%28%5Cmathbb%20V%5Cotimes%20%5Cmathbb%20V%29) is an AUF algebra and constructing a linear isomorphism between Mod(V) and the category of coherent left module of this AUF algebra. 
+> In this paper, we prove that the pseudo-q-trace construction gives an isomorphism between the space of torus conformal blocks and the space of symmetric linear functionals of the endomorphism algebra of a projective generator. This is a conjecture by [Gainutdinov](https://www.researchgate.net/profile/Azat-Gainutdinov-2)-[Runkel](https://www.math.uni-hamburg.de/home/runkel/). With the help of pseudotrace reciprocity in our previous paper, we prove this conjecture by showing that Lyubashenko's end
+> <p align="center">
+  <img src="https://latex.codecogs.com/svg.image?\int_{\mathbb%20X\in%20\mathrm{Mod}(\mathbb%20V)}\mathbb%20X\otimes%20\mathbb%20X'\in%20\mathrm{Mod}(\mathbb%20V\otimes%20\mathbb%20V)">
+</p>
+>  is an AUF algebra and constructing a linear isomorphism between Mod(V) and the category of coherent left module of this AUF algebra. 
 - (Joint with [Bin Gui](https://binguimath.github.io)) Almost Unital and Finite Dimensional Algebras, to appear soon
 > In this paper, we introduce *almost unital and finite dimensional algebras*(AUF algebras) and prove pseudotrace reciprocity. 
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras III: The Sewing-Factorization Theorems, `arXiv:2503.23995` [Preprint](Files/2025 SF theorem.pdf)
@@ -30,10 +34,7 @@ If you have any questions, feel free to send me an e-mail.
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras II: Convergence of Sewing and Higher Genus Pseudo-q-traces, `arXiv:2411.07707` [Preprint](Files/2024 Convergence.pdf)
 > In this paper, we prove the higher genus convergence of sewing for finite logarithmic chiral CFTs, which aligns with the convergence of pseudo-q-traces in the sense of [Fiordalisi's work](https://www.worldscientific.com/doi/abs/10.1142/S0219199716500267?srsltid=AfmBOoosN_gHU5tzp39SWui_HZLo2ZwTg5lBDEV2yM7OyTQZyRgC10i7). 
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras I: Propagation and Dual Fusion Products, `arXiv:2305.10180` [Preprint](Files/2023 Dual fusion products.pdf)
-> In this paper, we construct *higher genus (dual) fusion products* using propagation of partial conformal blocks <p align="center">
-  <img src="https://latex.codecogs.com/svg.image?\int_{\mathbb%20X\in%20\mathrm{Mod}(\mathbb%20V)}\mathbb%20X\otimes%20\mathbb%20X'\in%20\mathrm{Mod}(\mathbb%20V\otimes%20\mathbb%20V)">
-</p>
-. We also formulate the sewing-factorization theorem in terms of (dual) fusion products. 
+> In this paper, we construct *higher genus (dual) fusion products* using propagation of partial conformal blocks. We also formulate the sewing-factorization theorem in terms of (dual) fusion products. 
 
 ## Upcoming Travel
 

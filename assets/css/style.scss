@@ -35,11 +35,13 @@ h2, h3, h4, h5, h6 {
 }
 
 
+/********  深化 blockquote 文字颜色  ********/
+.markdown-body blockquote,
+.markdown-body blockquote > p {
+  color: #2b2b2b !important;     /* 比默认灰色深，可再调 */
+}
 
-/********  > 引用文字加深  ********/
+/* 若想同时把左侧竖线也加深，可加： */
 .markdown-body blockquote {
-  color: #2b2b2b;        /* 跟正文一致，再深一小档 */
-  /* 想再强调一点，也可以给引用竖线换颜色：
-  border-left: 4px solid #15408a;
-  */
+  border-left: 4px solid #15408a;  /* 可换任意深色或保留默认 */
 }

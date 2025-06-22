@@ -23,3 +23,13 @@ a:focus {
   color: #0e2d60 !important;
   text-decoration: underline;
 }
+
+/* 加深正文文字 */
+body {
+  color: #2b2b2b !important;   /* 默认是 #606c71，约深 30% */
+}
+
+/* 加深所有标题 */
+h1, h2, h3, h4, h5, h6 {
+  color: #0e2d60 !important;   /* 深蓝灰，自己可替换 */
+}

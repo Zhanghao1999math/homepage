@@ -8,13 +8,6 @@ E-mail: <br>
 h-zhang21(at)mails(dot)tsinghua(dot)edu(dot)cn <br>
 zhanghao1999math(at)gmail(dot)com
 
-
-
-## Academic Experiences
-- (2021.9-)  Ph.D student, Yau Mathematical Sciences Center, Tsinghua University. Advisor: Zhengwei Liu
-- (2017.9-2021.6) B.S., Department of Mathematics, Nanjing University
-
-
 ##  Research Descriptions
 
 I am interested in vertex operator algebras and their applications in conformal field theory. Recently, I proved the sewing-factorization theorem on finite logarithmic chiral CFTs with [Bin Gui](https://binguimath.github.io). 

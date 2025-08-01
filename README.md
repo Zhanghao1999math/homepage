@@ -25,8 +25,8 @@ If you have any questions, feel free to send me an e-mail.
 > In this paper, under the C_2-cofinite condition, we prove that the pseudo-q-trace construction gives an isomorphism between the space of vacuum torus conformal blocks and the space of symmetric linear functionals of ![End](https://latex.codecogs.com/svg.image?\mathrm{End}_{\mathbb%20V}(\mathbb%20G)), where G is a projective generator of Mod(V). This is a conjecture by [Gainutdinov](https://www.researchgate.net/profile/Azat-Gainutdinov-2)-[Runkel](https://www.math.uni-hamburg.de/home/runkel/). With the help of pseudotrace reciprocity in our previous paper, we prove this conjecture by showing that the end
 > <p align="center"> <img src="https://latex.codecogs.com/svg.image?\int_{\mathbb%20X\in%20\mathrm{Mod}(\mathbb%20V)}\mathbb%20X\otimes%20\mathbb%20X'\in%20\mathrm{Mod}(\mathbb%20V\otimes%20\mathbb%20V)"> </p>
 >  is an AUF algebra and constructing a linear isomorphism between Mod(V) and the category of coherent left module of this AUF algebra. 
-- (Joint with [Bin Gui](https://binguimath.github.io)) Almost Unital and Finite Dimensional Algebras, to appear soon
-> In this paper, we introduce *almost unital and finite dimensional algebras* (AUF algebras) and prove pseudotrace reciprocity. 
+- (Joint with [Bin Gui](https://binguimath.github.io)) Pseudotraces on Almost Unital and Finite-Dimensional Algebras, [Preprint](Files/2025 AUF.pdf)
+> In this paper, we introduce *almost unital and finite dimensional algebras* (AUF algebras) and prove a pseudotrace reciprocity. 
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras III: The Sewing-Factorization Theorems, `arXiv:2503.23995` [Preprint](Files/2025 SF theorem.pdf)
 > In this paper, we prove several equivalent versions of sewing-factorization theorem for finite logarithmic chiral CFTs. One of our versions takes the form of horizontal composition of profunctors—defined via coends—which aligns with the TQFT framework proposed in the paper [Modular Functors from Non-Semisimple 3D TFTs](https://arxiv.org/abs/2405.18038) by [Hofer](https://aaron-hofer.github.io/)-[Runkel](https://www.math.uni-hamburg.de/home/runkel/). In particular, our result naturally connects with the topological modular functors in the sense of [Lyubashenko](https://imath.kiev.ua/~lub/) and [Fuchs](https://jfuchs.hotell.kau.se/gen/cont.html)-[Schweigert](https://www.math.uni-hamburg.de/home/schweigert/).
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras II: Convergence of Sewing and Higher Genus Pseudo-q-traces, `arXiv:2411.07707` [Preprint](Files/2024 Convergence.pdf)
@@ -36,9 +36,8 @@ If you have any questions, feel free to send me an e-mail.
 
 ## Upcoming Travel
 
-- July 21 - 25, 2025, [Recent Developments in Logarithmic Conformal Field Theory](https://www.birs.ca/events/2025/5-day-workshops/25w5318), BIRS, Canada.
 - September 29 - October 10, 2025, [CFT: Algebraic, Topological and probabilistic approaches in Conformal Field Theory](https://indico.ijclab.in2p3.fr/event/11570/), Institut Pascal, France.
-
+- January 4 - 9, 2026, [Geometric and Category-Theoretic approaches to Conformal Field Theory](http://www.birs.ca/events/2026/5-day-workshops/26w5536), Chennai, India
 
 ## Talks
 

@@ -37,7 +37,7 @@ If you have any questions, feel free to send me an e-mail.
 ## Upcoming Travel
 
 - September 29 - October 10, 2025, [CFT: Algebraic, Topological and probabilistic approaches in Conformal Field Theory](https://indico.ijclab.in2p3.fr/event/11570/), Institut Pascal, France.
-- January 4 - 9, 2026, [Geometric and Category-Theoretic approaches to Conformal Field Theory](http://www.birs.ca/events/2026/5-day-workshops/26w5536), Chennai, India
+- January 4 - 9, 2026, [Geometric and Category-Theoretic approaches to Conformal Field Theory](http://www.birs.ca/events/2026/5-day-workshops/26w5536), Chennai Mathematical Institute, India
 
 ## Talks
 

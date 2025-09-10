@@ -21,7 +21,7 @@ If you have any questions, feel free to send me an e-mail.
 
 ## Publications
 
-- Non-Equivalence of Smooth and Nodal Conformal Block Functors in Logarithmic CFT [Preprint](Files/2025 Nodal.pdf)
+- Non-Equivalence of Smooth and Nodal Conformal Block Functors in Logarithmic CFT `arXiv:2509.07720` [Preprint](Files/2025 Nodal.pdf)
 - (Joint with [Bin Gui](https://binguimath.github.io)) How are pseudo-q-traces related to (co)ends? `arXiv:2508.04532` [Preprint](Files/2025 Pseudotraces.pdf)
 > In this paper, under the C_2-cofinite condition, we prove that the pseudo-q-trace construction gives an isomorphism between the space of vacuum torus conformal blocks and the space of symmetric linear functionals of ![End](https://latex.codecogs.com/svg.image?\mathrm{End}_{\mathbb%20V}(\mathbb%20G)), where G is a projective generator of Mod(V). This is a conjecture by [Gainutdinov](https://www.researchgate.net/profile/Azat-Gainutdinov-2)-[Runkel](https://www.math.uni-hamburg.de/home/runkel/). With the help of pseudotrace reciprocity in our previous paper, we prove this conjecture by showing that the end
 > <p align="center"> <img src="https://latex.codecogs.com/svg.image?\int_{\mathbb%20X\in%20\mathrm{Mod}(\mathbb%20V)}\mathbb%20X\otimes%20\mathbb%20X'\in%20\mathrm{Mod}(\mathbb%20V\otimes%20\mathbb%20V)"> </p>

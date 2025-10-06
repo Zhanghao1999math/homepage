@@ -16,7 +16,7 @@ My [slides](Files/2025 Orsay.pdf) at Université Paris-Saclay describe the relat
 
 My [slides](Files/2025.Rocky.Mountain.pdf) at Rocky Mountain Representation Theory Seminar describe the relation between sewing-factorization theorem and coend.
 
-Bin Gui's [slides](Files/2025_SJTU.pdf) at SJTU describe the relation between sewing-factorization theorem and pseudo-traces.
+Bin Gui's [slides](Files/2025_SJTU.pdf) at Université Paris-Saclay describe how pseudo-traces and (co)ends are related.
 
 If you have any questions, feel free to send me an e-mail.
 

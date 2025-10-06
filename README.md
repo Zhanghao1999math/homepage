@@ -12,6 +12,8 @@ zhanghao1999math(at)gmail(dot)com
 
 I am interested in vertex operator algebras and their applications in conformal field theory. Recently, I proved the sewing-factorization theorem on finite logarithmic chiral CFTs with [Bin Gui](https://binguimath.github.io). 
 
+My [slides](Files/2025 Orsay.pdf) at Université Paris-Saclay describe the relation between smooth and nodal conformal blocks in logarithmic CFT.
+
 My [slides](Files/2025.Rocky.Mountain.pdf) at Rocky Mountain Representation Theory Seminar describe the relation between sewing-factorization theorem and coend.
 
 Bin Gui's [slides](Files/2025_SJTU.pdf) at SJTU describe the relation between sewing-factorization theorem and pseudo-traces.

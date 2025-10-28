@@ -2,7 +2,9 @@ Welcome to my homepage.
 
 ## About me
 
-I am a 5-th year PhD student at Tsinghua University, Yau Mathematical Sciences Center. Here is my [Google Scholar](https://scholar.google.com/citations?user=-IJjsjcAAAAJ&hl=en&oi=sra) and [CV](Files/CV Hao Zhang.pdf).
+I am a 5-th year PhD student at Tsinghua University, Yau Mathematical Sciences Center. Here is my [Google Scholar](https://scholar.google.com/citations?user=-IJjsjcAAAAJ&hl=en&oi=sra) and [CV](Files/CV Hao Zhang.pdf). 
+
+I am on the job market now.
 
 E-mail: <br>
 h-zhang21(at)mails(dot)tsinghua(dot)edu(dot)cn <br>
@@ -38,11 +40,11 @@ If you have any questions, feel free to send me an e-mail.
 
 ## Upcoming Travel
 
-- September 29 - October 10, 2025, [CFT: Algebraic, Topological and probabilistic approaches in Conformal Field Theory](https://indico.ijclab.in2p3.fr/event/11570/), Institut Pascal, France.
 - January 4 - 9, 2026, [Geometric and Category-Theoretic approaches to Conformal Field Theory](http://www.birs.ca/events/2026/5-day-workshops/26w5536), Chennai Mathematical Institute, India
 
 ## Talks
 
+- *Sewing and Factorization of Smooth and Nodal Conformal Blocks in Logarithmic CFT*, Quantum Symmetry Seminar, BIMSA, China, Oct 15, 2025.
 - *Sewing and Factorization of Smooth and Nodal Conformal Blocks in Logarithmic CFT*, [Algebraic, Topological and Probabilistic approaches in CFT](https://marsh-shop-8af.notion.site/CFT-Algebraic-Topological-and-probabilistic-approaches-in-Conformal-Field-Theory-22d5d1a7b92880eeb1fff1e17919ef4e), Institut Pascal, France, Oct 6, 2025.
 - *Sewing-factorization theorem and coends*, [Rocky Mountain Representation theory seminar](https://sites.google.com/view/rockymountainreptheory/home) (online), May 23, 2025.
 - *Sewing-factorization theorem and coends*, Nanjing University, China, May 23, 2025

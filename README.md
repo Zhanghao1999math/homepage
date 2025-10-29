@@ -40,7 +40,7 @@ If you have any questions, feel free to send me an e-mail.
 
 ## Upcoming Travel
 
-- January 4 - 9, 2026, [Geometric and Category-Theoretic approaches to Conformal Field Theory](http://www.birs.ca/events/2026/5-day-workshops/26w5536), Chennai Mathematical Institute, India
+
 
 ## Talks
 

@@ -40,6 +40,7 @@ If you have any questions, feel free to send me an e-mail.
 
 ## Upcoming Travel
 
+None.
 
 
 ## Talks

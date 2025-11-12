@@ -12,7 +12,7 @@ zhanghao1999math(at)gmail(dot)com
 
 ##  Research Descriptions
 
-I am interested in vertex operator algebras and their applications in conformal field theory. Recently, I am working with [Bin Gui](https://binguimath.github.io) on logarithmic CFT for a C_2-cofinite VOA. Here is my [research statement](Files/Research Statement.pdf).
+I am interested in vertex operator algebras and their applications in conformal field theory. Recently, I am working with [Bin Gui](https://binguimath.github.io) on logarithmic CFT for a C_2-cofinite VOA. 
 
 My [slides](Files/2025 Orsay.pdf) at Université Paris-Saclay describe the relation between smooth and nodal conformal blocks in logarithmic CFT.
 
@@ -40,7 +40,7 @@ If you have any questions, feel free to send me an e-mail.
 
 ## Upcoming Travel
 
-None.
+Jan 4 - Jan 9, 2026, Geometric and Category-Theoretic approaches to Conformal Field Theory, Chennai, India.
 
 
 ## Talks
@@ -49,7 +49,7 @@ None.
 - *Sewing and Factorization of Smooth and Nodal Conformal Blocks in Logarithmic CFT*, [Algebraic, Topological and Probabilistic approaches in CFT](https://marsh-shop-8af.notion.site/CFT-Algebraic-Topological-and-probabilistic-approaches-in-Conformal-Field-Theory-22d5d1a7b92880eeb1fff1e17919ef4e), Institut Pascal, France, Oct 6, 2025.
 - *Sewing-factorization theorem and coends*, [Rocky Mountain Representation theory seminar](https://sites.google.com/view/rockymountainreptheory/home) (online), May 23, 2025.
 - *Sewing-factorization theorem and coends*, Nanjing University, China, May 23, 2025
-- *Conformal blocks and coends*, [Shenzhen Thematic Program “Representation Theory”](https://meeting.icm.sustech.edu.cn/2025/), China, April 24, 2025
+- *Conformal blocks and coends*, [Shenzhen Thematic Program “Representation Theory”](https://meeting.icm.sustech.edu.cn/2025/), SUSTech, China, April 24, 2025
 - *The sewing-factorization theorem and pseudotraces for C_2-cofinite VOAs*, Mathematical Physics seminar, Perimeter Institute, Canada, March 20, 2025
 - *Vertex operator algebras and conformal blocks*, Mathematical Physics seminar, Perimeter Institute, Canada, March 17, 2025
 - *Conformal blocks and coends*, [Quantum groups, tensor categories and quantum field theory](https://www.mn.uio.no/math/english/research/groups/operator-algebras/events/conferences/qg-2025/), University of Oslo, Norway.

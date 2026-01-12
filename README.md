@@ -40,7 +40,6 @@ If you have any questions, feel free to send me an e-mail.
 
 ## Upcoming Travel
 
-- Jan 4 - 9, 2026, Geometric and Category-Theoretic approaches to Conformal Field Theory, Chennai, India.
 - Jan 19 -23, 2026, International Workshop on Hopf Algebras and Tensor Categories, Tsinghua Sanya International Mathematics Forum, China.
 
 ## Talks

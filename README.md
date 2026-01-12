@@ -45,6 +45,7 @@ If you have any questions, feel free to send me an e-mail.
 
 ## Talks
 
+- *Sewing and Factorization of Smooth and Nodal Conformal Blocks in Logarithmic CFT*, Geometric and Category-Theoretic approaches to CFT, Chennai, India, Jan 7, 2026.
 - *Sewing and Factorization of Smooth and Nodal Conformal Blocks in Logarithmic CFT*, Quantum Symmetry Seminar, BIMSA, China, Oct 15, 2025.
 - *Sewing and Factorization of Smooth and Nodal Conformal Blocks in Logarithmic CFT*, [Algebraic, Topological and Probabilistic approaches in CFT](https://marsh-shop-8af.notion.site/CFT-Algebraic-Topological-and-probabilistic-approaches-in-Conformal-Field-Theory-22d5d1a7b92880eeb1fff1e17919ef4e), Institut Pascal, France, Oct 6, 2025.
 - *Sewing-factorization theorem and coends*, [Rocky Mountain Representation theory seminar](https://sites.google.com/view/rockymountainreptheory/home) (online), May 23, 2025.

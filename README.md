@@ -2,9 +2,7 @@ Welcome to my homepage.
 
 ## About me
 
-I am a 5-th year PhD student at Tsinghua University, Yau Mathematical Sciences Center. Here is my [Google Scholar](https://scholar.google.com/citations?user=-IJjsjcAAAAJ&hl=en&oi=sra) and [CV](Files/CV Hao Zhang.pdf). 
-
-I am on the job market now.
+I am a 5-th year PhD student at Tsinghua University, Yau Mathematical Sciences Center. Here is my [Google Scholar](https://scholar.google.com/citations?user=-IJjsjcAAAAJ&hl=en&oi=sra). 
 
 E-mail: <br>
 h-zhang21(at)mails(dot)tsinghua(dot)edu(dot)cn <br>
@@ -33,14 +31,14 @@ If you have any questions, feel free to send me an e-mail.
 - (Joint with [Bin Gui](https://binguimath.github.io)) Pseudotraces on Almost Unital and Finite-Dimensional Algebras, `arXiv:2508.00431` [Preprint](Files/2025 AUF.pdf)
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras III: The Sewing-Factorization Theorems, *to appear in **Proc. Lond. Math. Soc.***, `arXiv:2503.23995` [Preprint](Files/2025 SF theorem.pdf)
 > In this paper, we prove several equivalent versions of sewing-factorization theorem for finite logarithmic chiral CFTs. One of our versions takes the form of horizontal composition of profunctors—defined via coends—which aligns with the TQFT framework proposed in the paper [Modular Functors from Non-Semisimple 3D TFTs](https://arxiv.org/abs/2405.18038) by [Hofer](https://aaron-hofer.github.io/)-[Runkel](https://www.math.uni-hamburg.de/home/runkel/). In particular, our result naturally connects with the topological modular functors in the sense of [Lyubashenko](https://imath.kiev.ua/~lub/) and [Fuchs](https://jfuchs.hotell.kau.se/gen/cont.html)-[Schweigert](https://www.math.uni-hamburg.de/home/schweigert/).
-- (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras II: Convergence of Sewing and Higher Genus Pseudo-q-traces, *to appear in **Commun. Contemp. Math.***, `arXiv:2411.07707` [Preprint](Files/2024 Convergence.pdf)
+- (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras II: Convergence of Sewing and Higher Genus Pseudo-q-traces, *to appear in **Commun. Contemp. Math.***, `arXiv:2411.07707` [Journal](https://www.worldscientific.com/doi/10.1142/S0219199725500853) [Preprint](Files/2024 Convergence.pdf)
 > In this paper, we prove the higher genus convergence of sewing for finite logarithmic chiral CFTs, which aligns with the convergence of pseudo-q-traces in the sense of [Fiordalisi's work](https://www.worldscientific.com/doi/abs/10.1142/S0219199716500267?srsltid=AfmBOoosN_gHU5tzp39SWui_HZLo2ZwTg5lBDEV2yM7OyTQZyRgC10i7). This type of sewing is the correct one to build the sewing-factorization property.
 - (Joint with [Bin Gui](https://binguimath.github.io)) Analytic Conformal Blocks of C_2-cofinite Vertex Operator Algebras I: Propagation and Dual Fusion Products, `arXiv:2305.10180` [Preprint](Files/2023 Dual fusion products.pdf)
 > In this paper, we construct *higher genus (dual) fusion products* using propagation of partial conformal blocks. We also formulate the sewing-factorization theorem in terms of (dual) fusion products. 
 
 ## Upcoming Travel
 
-- Jan 19 -23, 2026, International Workshop on Hopf Algebras and Tensor Categories, Tsinghua Sanya International Mathematics Forum, China.
+None.
 
 ## Talks
 

@@ -30,7 +30,7 @@
   <div class="info-grid">
     <div class="info-item">
       <span class="label">Research interests</span>
-      Vertex operator algebras, logarithmic conformal field theory, conformal blocks, sewing and factorization, and related questions in mathematical physics.
+      Vertex operator algebras, logarithmic conformal field theory, conformal blocks, modular functors, and related topics in mathematical physics.
     </div>
     <div class="info-item">
       <span class="label">Current collaboration</span>
@@ -44,12 +44,12 @@
 
 <div class="section-card">
   <p>
-    My recent work studies the analytic and categorical structures behind logarithmic conformal field theory. In particular, I am interested in the geometry of conformal blocks and how sewing, factorization, pseudo-traces, and coends interact in the non-semisimple setting.
+    My recent work studies the analytic and categorical structures behind logarithmic conformal field theory. In particular, I am interested in the geometry of conformal blocks in the non-semisimple setting.
   </p>
   <ul class="clean-list">
-    <li>the relation between smooth and nodal conformal blocks in logarithmic CFT;</li>
     <li>sewing-factorization theorems and their connection with coends;</li>
-    <li>pseudo-traces, modular-type structures, and applications to non-semisimple CFT.</li>
+    <li>pseudo-traces and associative algebras in logarithmic CFT;</li>
+    <li>modular functors from conformal blocks in logarithmic CFT.</li>
   </ul>
   <p class="small-note"><strong>Selected slides.</strong></p>
   <ul class="clean-list">

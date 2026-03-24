@@ -110,6 +110,15 @@
   <div class="pub-links"><a href="Files/2023 Dual fusion products.pdf">Preprint</a></div>
 </div>
 
+<a id="travel"></a>
+## Upcoming Travel
+
+<div class="section-card notice-card">
+  <p><strong>July 1–18, 2026</strong> · University of Hamburg, Germany.</p>
+</div>
+
+
+
 <a id="talks"></a>
 ## Talks
 
@@ -143,12 +152,8 @@
   <li><em>Conformal blocks of C<sub>2</sub>-cofinite vertex operator algebras</em>, Tsinghua University, China, April 14, 2023.</li>
 </ul>
 
-<a id="travel"></a>
-## Upcoming Travel
 
-<div class="section-card notice-card">
-  <p><strong>July 1–18, 2026</strong> · University of Hamburg, Germany.</p>
-</div>
+
 
 <a id="contact"></a>
 ## Contact

@@ -8,7 +8,6 @@
   <div class="hero-links">
     <a class="pill-link" href="https://scholar.google.com/citations?user=-IJjsjcAAAAJ&hl=en&oi=sra">Google Scholar</a>
     <a class="pill-link" href="http://arxiv.org/a/zhang_h_18">arXiv</a>
-    <a class="pill-link" href="https://github.com/Zhanghao1999math/homepage">GitHub</a>
   </div>
 </div>
 

@@ -2,7 +2,7 @@
   <p class="hero-kicker">Academic Homepage</p>
   <h1 class="hero-title">Hao Zhang</h1>
   <p class="hero-subtitle">PhD Candidate in Mathematics · Yau Mathematical Sciences Center, Tsinghua University</p>
-  <p class="hero-description">
+  <p class="hero-description"></p>
   <div class="hero-links">
     <a class="pill-link" href="https://scholar.google.com/citations?user=-IJjsjcAAAAJ&hl=en&oi=sra">Google Scholar</a>
     <a class="pill-link" href="http://arxiv.org/a/zhang_h_18">arXiv</a>

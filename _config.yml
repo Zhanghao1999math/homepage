@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 title: Hao Zhang
+description: Academic homepage in mathematics
+show_downloads: false
 markdown: kramdown
 sass:
   style: compressed

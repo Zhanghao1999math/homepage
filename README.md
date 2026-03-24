@@ -36,11 +36,11 @@ If you have any questions, feel free to send me an e-mail.
 
 ## Upcoming Travel
 
-None.
+- July 1 - July 18, University of Hamburg, Germany.
 
 ## Talks
 
-- *Sewing and Factorization of Smooth and Nodal Conformal Blocks in Logarithmic CFT*, Geometric and Category-Theoretic approaches to CFT, Chennai, India, Jan 7, 2026.
+- *Sewing and Factorization of Smooth and Nodal Conformal Blocks in Logarithmic CFT*, [Geometric and Category-Theoretic approaches to CFT](http://www.birs.ca/event/26w5536), Chennai, India, Jan 7, 2026.
 - *Sewing and Factorization of Smooth and Nodal Conformal Blocks in Logarithmic CFT*, Quantum Symmetry Seminar, BIMSA, China, Oct 15, 2025.
 - *Sewing and Factorization of Smooth and Nodal Conformal Blocks in Logarithmic CFT*, [Algebraic, Topological and Probabilistic approaches in CFT](https://marsh-shop-8af.notion.site/CFT-Algebraic-Topological-and-probabilistic-approaches-in-Conformal-Field-Theory-22d5d1a7b92880eeb1fff1e17919ef4e), Institut Pascal, France, Oct 6, 2025.
 - *Sewing-factorization theorem and coends*, [Rocky Mountain Representation theory seminar](https://sites.google.com/view/rockymountainreptheory/home) (online), May 23, 2025.
@@ -48,7 +48,7 @@ None.
 - *Conformal blocks and coends*, [Shenzhen Thematic Program “Representation Theory”](https://meeting.icm.sustech.edu.cn/2025/), SUSTech, China, April 24, 2025
 - *The sewing-factorization theorem and pseudotraces for C_2-cofinite VOAs*, Mathematical Physics seminar, Perimeter Institute, Canada, March 20, 2025
 - *Vertex operator algebras and conformal blocks*, Mathematical Physics seminar, Perimeter Institute, Canada, March 17, 2025
-- *Conformal blocks and coends*, [Quantum groups, tensor categories and quantum field theory](https://www.mn.uio.no/math/english/research/groups/operator-algebras/events/conferences/qg-2025/), University of Oslo, Norway.
+- *Conformal blocks and coends*, [Quantum groups, tensor categories and quantum field theory](https://www.mn.uio.no/math/english/research/groups/operator-algebras/events/conferences/qg-2025/), University of Oslo, Norway, Jan 13, 2025.
 - *The sewing-factorization theorem and pseudotraces for C_2-cofinite VOAs*, Algebra and Logic Seminar (online), University of Denver, USA, November 1, 2024
 - *Conformal blocks and a Verlinde formula for self-dual C_2-cofinite non-rational vertex operator algebras*, Vertex Algebras, Tensor Category and Related Topics, Shanghai Jiao Tong University, China, June 24, 2024
 - *Logarithmic conformal field theory:sewing and factorization*, Lie Group/Quantum Mathematics Seminar, Rutgers University, USA, April 19, 2024

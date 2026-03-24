@@ -15,8 +15,8 @@
   <a href="#about">About</a>
   <a href="#research">Research</a>
   <a href="#publications">Publications</a>
-  <a href="#talks">Talks</a>
   <a href="#travel">Travel</a>
+  <a href="#talks">Talks</a>
   <a href="#contact">Contact</a>
 </div>
 

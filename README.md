@@ -112,7 +112,7 @@
 ## Upcoming Travel
 
 <div class="section-card notice-card">
-  <p><strong>July 1–18, 2026</strong> · University of Hamburg, Germany.</p>
+  <p><strong>July 1–22, 2026</strong> · University of Hamburg, Germany.</p>
 </div>
 
 

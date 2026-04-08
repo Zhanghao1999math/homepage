@@ -83,7 +83,7 @@
 
 <div class="pub-item">
   <div class="pub-title">Analytic Conformal Blocks of C<sub>2</sub>-cofinite Vertex Operator Algebras III: The Sewing-Factorization Theorems</div>
-  <div class="pub-meta">Joint with <a href="https://binguimath.github.io">Bin Gui</a> · <em>Proc. Lond. Math. Soc.</em>, 132 (2026), no. 2, Paper No. e70130 · <code>arXiv:2503.23995</code></div>
+  <div class="pub-meta">Joint with <a href="https://binguimath.github.io">Bin Gui</a> · <strong>Proc. Lond. Math. Soc.</strong>, 132 (2026), no. 2, Paper No. e70130 · <code>arXiv:2503.23995</code></div>
   <div class="pub-links">
     <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/plms.70130">Journal</a>
     <a href="Files/2025 SF theorem.pdf">Preprint</a>
@@ -95,7 +95,7 @@
 
 <div class="pub-item">
   <div class="pub-title">Analytic Conformal Blocks of C<sub>2</sub>-cofinite Vertex Operator Algebras II: Convergence of Sewing and Higher Genus Pseudo-q-traces</div>
-  <div class="pub-meta">Joint with <a href="https://binguimath.github.io">Bin Gui</a> · to appear in <em>Commun. Contemp. Math.</em> · <code>arXiv:2411.07707</code></div>
+  <div class="pub-meta">Joint with <a href="https://binguimath.github.io">Bin Gui</a> · to appear in <strong>Commun. Contemp. Math.</strong> · <code>arXiv:2411.07707</code></div>
   <div class="pub-links">
     <a href="https://www.worldscientific.com/doi/10.1142/S0219199725500853">Journal</a>
     <a href="Files/2024 Convergence.pdf">Preprint</a>

@@ -104,7 +104,7 @@
 
 <div class="pub-item">
   <div class="pub-title">Analytic Conformal Blocks of C<sub>2</sub>-cofinite Vertex Operator Algebras I: Propagation and Dual Fusion Products</div>
-  <div class="pub-meta">Joint with <a href="https://binguimath.github.io">Bin Gui</a> · Preprint · <code>arXiv:2305.10180</code></div>
+  <div class="pub-meta">Joint with <a href="https://binguimath.github.io">Bin Gui</a> · to appear in <em><strong>New York J. Math.</strong></em>  · <code>arXiv:2305.10180</code></div>
   <div class="pub-links"><a href="Files/2023 Dual fusion products.pdf">Preprint</a></div>
 </div>
 

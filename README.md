@@ -77,8 +77,10 @@
 
 <div class="pub-item">
   <div class="pub-title">Pseudotraces on Almost Unital and Finite-Dimensional Algebras</div>
-  <div class="pub-meta">Joint with <a href="https://binguimath.github.io">Bin Gui</a> ·  to appear in <em><strong>J. Algebra</strong></em>  · <code>arXiv:2508.00431</code></div>
-  <div class="pub-links"><a href="Files/2025 AUF.pdf">Preprint</a></div>
+  <div class="pub-meta">Joint with <a href="https://binguimath.github.io">Bin Gui</a> ·  <em><strong>J. Algebra</strong></em> 704C (2026) pp. 220-254  · <code>arXiv:2508.00431</code></div>
+  <div class="pub-links">
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S002186932600284X">Journal</a>
+    <a href="Files/2025 AUF.pdf">Preprint</a></div>
 </div>
 
 <div class="pub-item">

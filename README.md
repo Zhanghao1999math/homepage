@@ -163,7 +163,6 @@
 <div class="section-card">
   <p>Please feel free to contact me by email.</p>
   <div class="contact-lines">
-    <p><strong>Primary:</strong> zhanghao1999math (at) gmail (dot) com</p>
-    <p><strong>Secondary:</strong> h-zhang21 (at) mails (dot) tsinghua (dot) edu (dot) cn</p>
+    <p> zhanghao1999math at gmail dot com</p>
   </div>
 </div>

@@ -23,7 +23,7 @@
 
 <div class="section-card">
   <p>
-    Beginning in September 2026, I will join the <strong>Beijing International Center for Mathematical Research (BICMR)</strong> at Peking University as a postdoctoral researcher in mathematics, under the mentorship of <a href="https://faculty.bicmr.pku.edu.cn/~xinsun/">Xin Sun</a>. I received my PhD in mathematics from Tsinghua University in June 2026, under the supervision of <a href="https://binguimath.github.io">Bin Gui</a>.
+    Beginning in September 2026, I will join the <strong>Beijing International Center for Mathematical Research (BICMR)</strong> at Peking University as a postdoctoral researcher in mathematics, under the mentorship of <a href="https://faculty.bicmr.pku.edu.cn/~xinsun/">Xin Sun</a>. I received my PhD in mathematics from Tsinghua University in June 2026, under the supervision of <a href="https://binguimath.github.io">Bin Gui</a> and <a href="https://ymsc.tsinghua.edu.cn/en/info/1031/1883.htm">Zhengwei Liu</a>.
   </p>
 </div>
 

@@ -97,7 +97,7 @@
 
 <div class="pub-item">
   <div class="pub-title">Analytic Conformal Blocks of C<sub>2</sub>-cofinite Vertex Operator Algebras II: Convergence of Sewing and Higher Genus Pseudo-q-traces</div>
-  <div class="pub-meta">Joint with <a href="https://binguimath.github.io">Bin Gui</a> · to appear in <em><strong>Commun. Contemp. Math.</strong></em> · <code>arXiv:2411.07707</code></div>
+  <div class="pub-meta">Joint with <a href="https://binguimath.github.io">Bin Gui</a> · <em><strong>Commun. Contemp. Math.</strong></em>, Vol. 28, No. 09 (2026) · <code>arXiv:2411.07707</code></div>
   <div class="pub-links">
     <a href="https://www.worldscientific.com/doi/10.1142/S0219199725500853">Journal</a>
     <a href="Files/2024 Convergence.pdf">Preprint</a>
@@ -116,7 +116,7 @@
 ## Upcoming Travel
 
 <div class="section-card notice-card">
-  <p><strong>July 1–17, 2026</strong> · University of Hamburg, Germany.</p>
+  <p><strong>Jan 11–15, 2027</strong> Mathematical Aspects of Quantum Theory · TSIMF, China.</p>
 </div>
 
 

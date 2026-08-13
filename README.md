@@ -23,19 +23,10 @@
 
 <div class="section-card">
   <p>
-    Starting from September 2026, I will be a postdoctoral researcher in mathematics at Peking University, BICMR. My postdoc mentor is <a href="https://faculty.bicmr.pku.edu.cn/~xinsun/">Xin Sun</a>. I obtained my PhD in mathematics at Tsinghua University in June 2026. My PhD advisor is <a href="https://binguimath.github.io">Bin Gui</a>.
+    Beginning in September 2026, I will join the <strong>Beijing International Center for Mathematical Research (BICMR)</strong> at Peking University as a postdoctoral researcher in mathematics, under the mentorship of <a href="https://faculty.bicmr.pku.edu.cn/~xinsun/">Xin Sun</a>. I received my PhD in mathematics from Tsinghua University in June 2026, under the supervision of <a href="https://binguimath.github.io">Bin Gui</a>.
   </p>
-  <div class="info-grid">
-    <div class="info-item">
-      <span class="label">Research interests</span>
-      Vertex operator algebras, logarithmic conformal field theory, conformal blocks, modular functors.
-    </div>
-    <div class="info-item">
-      <span class="label">Current collaboration</span>
-      I am currently working with <a href="https://binguimath.github.io">Bin Gui</a> on logarithmic CFT for a C<sub>2</sub>-cofinite VOA.
-    </div>
-  </div>
 </div>
+
 
 <a id="research"></a>
 ## Research

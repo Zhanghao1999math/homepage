@@ -1,7 +1,7 @@
 <div class="hero">
   <p class="hero-kicker">Academic Homepage</p>
   <h1 class="hero-title">Hao Zhang</h1>
-  <p class="hero-subtitle">PhD Candidate in Mathematics · Yau Mathematical Sciences Center, Tsinghua University</p>
+  <p class="hero-subtitle">Postdoctoral researcher in Mathematics · BICMR, Peking University</p>
   <p class="hero-description"></p>
   <div class="hero-links">
     <a class="pill-link" href="https://scholar.google.com/citations?user=-IJjsjcAAAAJ&hl=en&oi=sra">Google Scholar</a>
@@ -23,12 +23,12 @@
 
 <div class="section-card">
   <p>
-    I am a fifth-year PhD student in mathematics at Tsinghua University, Yau Mathematical Sciences Center.
+    Starting from September 2026, I will be a postdoctoral researcher in mathematics at Peking University, BICMR. My postdoc mentor is <a href="https://faculty.bicmr.pku.edu.cn/~xinsun/">Xin Sun</a>. I obtained my PhD in mathematics at Tsinghua University in June 2026. My PhD advisor is <a href="https://binguimath.github.io">Bin Gui</a>.
   </p>
   <div class="info-grid">
     <div class="info-item">
       <span class="label">Research interests</span>
-      Vertex operator algebras, logarithmic conformal field theory, conformal blocks, modular functors, and related topics in mathematical physics.
+      Vertex operator algebras, logarithmic conformal field theory, conformal blocks, modular functors.
     </div>
     <div class="info-item">
       <span class="label">Current collaboration</span>

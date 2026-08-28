@@ -118,7 +118,7 @@
 
 ### 2026
 <ul class="timeline-list">
-  <li><em>Conformal Blocks and the Sewing-Factorization Theorem in Logarithmic CFT</em>, <a href="http://www.birs.ca/event/26w5536">Mathematical Physics Seminar (online)</a>, Aalto University, Finland, Jan 26, 2026.</li>
+  <li><em>Conformal Blocks and the Sewing-Factorization Theorem in Logarithmic CFT</em>, <a href="https://math.aalto.fi/en/research/mathphys/seminars/">Seminar on Mathematical Physics (online)</a>, Aalto University, Finland, Jan 26, 2026.</li>
   <li><em>Sewing and Factorization of Smooth and Nodal Conformal Blocks in Logarithmic CFT</em>, <a href="http://www.birs.ca/event/26w5536">Geometric and Category-Theoretic approaches to CFT</a>, Chennai, India, Jan 7, 2026.</li>
 </ul>
 

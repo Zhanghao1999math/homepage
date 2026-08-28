@@ -107,6 +107,7 @@
 ## Upcoming Travel
 
 <div class="section-card notice-card">
+  <p><strong>Sep 1–3, 2026</strong> East China Normal University, China.</p>
   <p><strong>Jan 11–15, 2027</strong> Mathematical Aspects of Quantum Theory · TSIMF, China.</p>
 </div>
 

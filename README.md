@@ -80,6 +80,7 @@
   <div class="pub-links">
     <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/plms.70130">Journal</a>
     <a href="Files/2025 SF theorem.pdf">Preprint</a>
+    <a href="Files/2025_CB3_Errata.pdf">Errata</a>
   </div>
   <p class="pub-summary">
     We prove several equivalent versions of the sewing-factorization theorem for finite logarithmic chiral CFTs and connect them to topological modular-functor ideas in the non-semisimple setting.

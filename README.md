@@ -108,7 +108,6 @@
 ## Upcoming Travel
 
 <div class="section-card notice-card">
-  <p><strong>Sep 1–3, 2026</strong> East China Normal University, China.</p>
   <p><strong>Jan 11–15, 2027</strong> Mathematical Aspects of Quantum Theory · TSIMF, China.</p>
 </div>
 
@@ -119,7 +118,8 @@
 
 ### 2026
 <ul class="timeline-list">
-  <li><em>Conformal Blocks and the Sewing-Factorization Theorem in Logarithmic CFT</em>, <a href="https://math.aalto.fi/en/research/mathphys/seminars/">Seminar on Mathematical Physics (online)</a>, Aalto University, Finland, Jan 26, 2026.</li>
+  <li><em>Conformal Blocks and the Sewing-Factorization Theorem in Logarithmic CFT</em>, <a href="https://math.ecnu.edu.cn/seminardetail.html?xqid=3857">Algebra Seminar</a>, East China Normal University, China, Sep 2, 2026.</li>
+  <li><em>Conformal Blocks and the Sewing-Factorization Theorem in Logarithmic CFT</em>, <a href="https://math.aalto.fi/en/research/mathphys/seminars/">Seminar on Mathematical Physics</a> (online), Aalto University, Finland, Jan 26, 2026.</li>
   <li><em>Sewing and Factorization of Smooth and Nodal Conformal Blocks in Logarithmic CFT</em>, <a href="http://www.birs.ca/event/26w5536">Geometric and Category-Theoretic approaches to CFT</a>, Chennai, India, Jan 7, 2026.</li>
 </ul>
 

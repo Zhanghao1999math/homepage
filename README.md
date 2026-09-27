@@ -23,7 +23,7 @@
 
 <div class="section-card">
   <p>
-    Beginning in September 2026, I will join the <strong>Beijing International Center for Mathematical Research (BICMR)</strong> at Peking University as a postdoctoral researcher in mathematics, under the mentorship of <a href="https://faculty.bicmr.pku.edu.cn/~xinsun/">Xin Sun</a>. I received my PhD in mathematics from Tsinghua University in June 2026, under the supervision of <a href="https://binguimath.github.io">Bin Gui</a> and <a href="https://ymsc.tsinghua.edu.cn/en/info/1031/1883.htm">Zhengwei Liu</a>.
+    I am currently a postdoctoral researcher in <strong>Beijing International Center for Mathematical Research (BICMR)</strong> at Peking University, under the mentorship of <a href="https://faculty.bicmr.pku.edu.cn/~xinsun/">Xin Sun</a>. I received my PhD in mathematics from Tsinghua University in June 2026, under the supervision of <a href="https://binguimath.github.io">Bin Gui</a> and <a href="https://ymsc.tsinghua.edu.cn/en/info/1031/1883.htm">Zhengwei Liu</a>.
   </p>
 </div>
 
@@ -53,7 +53,7 @@
 
 <div class="pub-item">
   <div class="pub-title">Non-Equivalence of Smooth and Nodal Conformal Block Functors in Logarithmic CFT</div>
-  <div class="pub-meta">Preprint · <code>arXiv:2509.07720</code></div>
+  <div class="pub-meta"> To appear in <em><strong>Commun. Math. Phys.</strong></em>  · <code>arXiv:2509.07720</code></div>
   <div class="pub-links"><a href="Files/2025 Nodal.pdf">Preprint</a></div>
 </div>
 
